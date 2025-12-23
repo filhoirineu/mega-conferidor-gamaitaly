@@ -9,7 +9,7 @@ const jogos = [
 ];
 
 const MIN_DEZENAS = 6;
-const MAX_DEZENAS = 13;
+const MAX_DEZENAS = 15;
 
 const ids = ["r1", "r2", "r3", "r4", "r5", "r6"];
 const elMsg = document.getElementById("msg");
